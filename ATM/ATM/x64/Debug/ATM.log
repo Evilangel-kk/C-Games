@@ -1,0 +1,14 @@
+﻿  basecode.cpp
+D:\VS项目\ATM\ATM\basecode.cpp(76,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(79,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(82,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(85,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(88,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(91,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(94,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(97,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(100,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(103,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\VS项目\ATM\ATM\basecode.cpp(404,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\ATM\ATM\basecode.cpp(323): warning C4715: “Getnumber”: 不是所有的控件路径都返回值
+  ATM.vcxproj -> D:\VS项目\ATM\x64\Debug\ATM.exe

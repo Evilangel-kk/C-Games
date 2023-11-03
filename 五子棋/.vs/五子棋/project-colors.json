@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "731fc884-5566-4844-8323-93d8946050fb": {
+      "ProjectGuid": "731fc884-5566-4844-8323-93d8946050fb",
+      "DisplayName": "五子棋",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

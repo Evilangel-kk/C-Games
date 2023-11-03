@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "098a0c65-533a-4060-af1d-c54776d35be0": {
+      "ProjectGuid": "098a0c65-533a-4060-af1d-c54776d35be0",
+      "DisplayName": "天天跑酷",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a40cef30-9680-46fa-b605-e945645bc1cb": {
+      "ProjectGuid": "a40cef30-9680-46fa-b605-e945645bc1cb",
+      "DisplayName": "坦克大战",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

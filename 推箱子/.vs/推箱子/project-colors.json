@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5c1ebfa-753a-4616-97cd-d76154d9168a": {
+      "ProjectGuid": "d5c1ebfa-753a-4616-97cd-d76154d9168a",
+      "DisplayName": "推箱子",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0067f5a9-16b2-45d2-a9d6-74781c7dc4df": {
+      "ProjectGuid": "0067f5a9-16b2-45d2-a9d6-74781c7dc4df",
+      "DisplayName": "拼图",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

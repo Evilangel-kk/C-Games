@@ -1,0 +1,4 @@
+﻿  BaseCode.cpp
+D:\VS项目\贪吃蛇\贪吃蛇\BaseCode.cpp(106,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VS项目\贪吃蛇\贪吃蛇\BaseCode.cpp(219,15): warning C4018: “>”: 有符号/无符号不匹配
+  贪吃蛇.vcxproj -> D:\VS项目\贪吃蛇\x64\Debug\贪吃蛇.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d3f8918-37be-4d34-96b9-c5f7b5947dcc": {
+      "ProjectGuid": "7d3f8918-37be-4d34-96b9-c5f7b5947dcc",
+      "DisplayName": "超级井字棋",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
